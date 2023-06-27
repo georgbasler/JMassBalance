@@ -1,4 +1,14 @@
 
+
+Citation
+--------
+
+If this software is useful for your work, please include one of the following references in your publication or redistribution:
+
+Georg Basler and Zoran Nikoloski (2011): JMassBalance: mass-balanced randomization and analysis of metabolic networks. Bioinformatics, 27(19):2761-2762. https://doi.org/10.1093/bioinformatics/btr448
+
+Georg Basler, Oliver Ebenhöh, Joachim Selbig, Zoran Nikoloski (2011): Mass-balanced randomization of metabolic networks. Bioinformatics, 27(10):1397-1403. https://doi.org/10.1093/bioinformatics/btr145
+
 JMassBalance Installation
 --------------------------
 
