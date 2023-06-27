@@ -1,4 +1,10 @@
 
+JMassBalance
+------------
+
+JMassBalance is a tool for mass-balanced randomization and analysis of metabolic networks. The tool is written entirely in Java and should thus run on any common operating system with the Java runtime environment installed. It was developed with Sun Java SE 1.6 on Windows XP, and tested on Windows 7 and Fedora Linux.
+
+The tool can be used via a graphical user interface or the command line. Please see the user manual for details, and refer to the API documentation for an in-depth source code documentation.
 
 Citation
 --------
@@ -28,15 +34,15 @@ download package and provide SBML support without the need to install libSBML.
 If you wish to use SBML models on Linux or Mac, libSBML has to be in-
 stalled with Java support. Note that JMassBalance can also run without SBML
 support, so there is no need to install anything if you do not need SBML.
-Refer to http://sbml.org/Software/libSBML/docs/cpp-api/libsbml-installation.html
+Refer to https://synonym.caltech.edu/software/libsbml/5.18.0/docs/formatted/java-api/libsbml-installation.html
 for installing libSBML with Java support on your system.
 
 After the installation, replace the file libsbmlj.jar in the directory where you
 extracted the JMassBalance package by the file from the libSBML installation.
 On Linux, the latter is usually located at /usr/share/java/libsbmlj.jar.
 Additional steps may be required depending on your operating system. Refer
-to http://sbml.org/Software/libSBML/docs/cpp-api/libsbml-accessing.html for
-more information.
+to https://sbml.org/software/libsbml/5.18.0/docs/formatted/c-api/libsbml-accessing.html
+for more information.
 
 
 Running JMassBalance
