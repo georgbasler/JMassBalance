@@ -82,6 +82,6 @@ http://mathbiol.mpimp-golm.mpg.de/massbalance/.
 For accessing the tool from your code, an API Documentation can be found online
 and is included in the doc directory of the download package.
 
-For comments and suggestions, please contact basler@mpimp-golm.mpg.de.
+For comments and suggestions, please contact Georg Basler.
 
-2011-07-10
+2023-06-27
